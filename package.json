@@ -1,0 +1,22 @@
+{
+  "name": "spring-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Springboot.java",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meysdays/spring-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meysdays/spring-api.git"
+  },
+  "homepage": "https://github.com/meysdays/spring-api.git",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
